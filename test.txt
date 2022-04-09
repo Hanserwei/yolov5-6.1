@@ -1,0 +1,15 @@
+2022-04-09 13:21:37.591207
+2022-04-09 13:21:37.592208
+2022-04-09 13:21:37.593208
+2022-04-09 13:21:37.593208
+2022-04-09 13:21:37.594209
+2022-04-09 13:21:37.595208
+2022-04-09 13:21:37.595208
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, 1 电钻, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, 1 电钻, image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, 1 电钻, 
+image 1/1 E:\code\GitHub\yolov5-6.1\JPEGImages\IMG_1931.JPG: 480x640 1 扳手, 1 小刀, 3 L形扳手, 2 螺丝刀, 1 剪线钳, 3 钳子, 1 电钻, 

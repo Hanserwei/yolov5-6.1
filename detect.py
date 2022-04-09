@@ -161,6 +161,10 @@ def run(weights=ROOT / 'yolov5s.pt',  # model.pt path(s)
                 for c in det[:, -1].unique():
                     n = (det[:, -1] == c).sum()  # detections per class
                     s += f"{n} {names[int(c)]}{'' * (n > 1)}, "  # add to string
+                from datetime import datetime
+                f = open("test.txt", "a")
+                now = str(datetime.now()) + "\n"
+                print(f.write(s+"\n"))
 
                 # Write results
                 for *xyxy, conf, cls in reversed(det):
@@ -219,7 +223,8 @@ def parse_opt():
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', nargs='+', type=str, default=ROOT / 'runs/train/exp1/weights/best.pt',
                         help='model path(s)')
-    parser.add_argument('--source', type=str, default=ROOT / 'JPEGImages/IMG_1931.JPG', help='file/dir/URL/glob, 0 for webcam')
+    parser.add_argument('--source', type=str, default=ROOT / 'JPEGImages/IMG_1931.JPG',
+                        help='file/dir/URL/glob, 0 for webcam')
     parser.add_argument('--data', type=str, default=ROOT / 'data/test.yaml', help='(optional) dataset.yaml path')
     parser.add_argument('--imgsz', '--img', '--img-size', nargs='+', type=int, default=[640], help='inference size h,w')
     parser.add_argument('--conf-thres', type=float, default=0.25, help='confidence threshold')
