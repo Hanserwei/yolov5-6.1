@@ -46,7 +46,7 @@ from utils.general import (LOGGER, check_file, check_img_size, check_imshow, che
 from utils.plots import Annotator, colors, save_one_box
 from utils.torch_utils import select_device, time_sync
 
-banshou = lbanshou = dainzuan = luosidao = xiaodao = jianxianqi = jianzuiqian = qianzi = 0
+
 
 
 @torch.no_grad()
@@ -163,8 +163,8 @@ def run(weights=ROOT / 'yolov5s.pt',  # model.pt path(s)
                     s += f"{n} {names[int(c)]}{'' * (n > 1)}, "  # add to string
                 from datetime import datetime
                 f = open("test.txt", "a")
-                now = str(datetime.now()) + "\n"
-                print(f.write(s+"\n"))
+                now = str(datetime.now())
+                print(f.write(now + "     " + str(names) + "\n"))
 
                 # Write results
                 for *xyxy, conf, cls in reversed(det):
